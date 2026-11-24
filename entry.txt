@@ -1,0 +1,1 @@
+Of course — the fastest way to fix that typo in production is to rename the database column everywhere at 2 a.m., no backup needed.
